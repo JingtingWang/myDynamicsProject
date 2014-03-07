@@ -63,7 +63,7 @@
     [self.animator addBehavior:self.gravity];
     
     UIDynamicItemBehavior* itemBehaviour = [[UIDynamicItemBehavior alloc] initWithItems:@[square]];
-    itemBehaviour.elasticity = 0.6;
+    itemBehaviour.elasticity = 0.65;
     [_animator addBehavior:itemBehaviour];
 }
 
