@@ -87,3 +87,6 @@
 }
 
 @end
+
+
+//reference: http://www.raywenderlich.com/50197/uikit-dynamics-tutorial
